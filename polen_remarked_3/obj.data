@@ -1,0 +1,7 @@
+classes = 4
+train  = data/polen_remarked_3/train.txt
+valid = data/polen_remarked_3/valid.txt
+test = data/polen_remarked_3/test.txt
+names = data/polen_remarked_3/obj.names
+backup = backup/
+
